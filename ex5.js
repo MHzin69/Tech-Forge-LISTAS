@@ -1,0 +1,1 @@
+const leitura = require("prompt-sync")();
